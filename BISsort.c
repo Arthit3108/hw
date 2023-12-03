@@ -67,5 +67,7 @@ int main() {
     selectionSort(arr1, size);
     insertionSort(arr2, size);
 
+    print("test git");
+
     return 0;
 }
